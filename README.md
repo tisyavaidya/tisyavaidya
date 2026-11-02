@@ -79,13 +79,4 @@ I'm a data scientist who likes turning messy data into models and insights peopl
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tisyavaidya&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tisyavaidya&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
----
-
 <p align="center"><i>Always happy to chat about data, ML, or life in Sweden — feel free to reach out! ✨</i></p>
