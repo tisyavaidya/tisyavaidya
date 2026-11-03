@@ -17,7 +17,7 @@ I'm a data scientist who likes turning messy data into models and insights peopl
 - 🚗 Worked on **stereo visual odometry for GNSS-denied navigation** (OpenCV, Python, ROS) with Penn State's Autonomous Vehicle Team
 - 🎨 Explored **generative AI** — image generation, instruction-based editing and background removal — at LTIMindtree
 - 🌱 Currently learning: deeper statistical ML, deep learning, and everything my master's throws at me
-- 👯 Open to: **data science / ML internships** and research collaborations in Sweden & Europe
+- 👯 Open to: **data science, ML and AI internships** and research collaborations in Sweden & Europe
 - 👩‍🏫 Spent 3 years teaching Python, Java, Calculus and Trigonometry as a Learning Assistant and Women in Engineering facilitator
 - 💬 Ask me about: NLP, ML pipelines, dashboards, or teaching people to code
 
