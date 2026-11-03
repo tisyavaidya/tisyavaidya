@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tisya 👋</h1>
-<h3 align="center">Data Science & Machine Learning · M.S. student at Uppsala University 🇸🇪</h3>
+<h3 align="center">Data Science - Machine Learning & Statistics· M.S. student at Uppsala University 🇸🇪</h3>
 
 <p align="center">
   <a href="https://tisyavaidya.com"><img src="https://img.shields.io/badge/Website-tisyavaidya.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
