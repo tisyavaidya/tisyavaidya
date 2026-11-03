@@ -63,19 +63,20 @@ I'm a data scientist who likes turning messy data into models and insights peopl
 
 ### 🚀 Featured projects
 
-<!-- Replace the # in each link with the URL of the matching repo -->
-
 | Project | What it does | Stack |
 |---|---|---|
-| 🧠 [**Hate Speech Detection with Multi-Model Ensembles**](#) | Ensemble of fine-tuned BERT + RoBERTa with negation-aware preprocessing; **93% accuracy**, macro F1 0.70 → 0.79, and big gains on HateCheck functional tests (e.g. negated hate 68% → 83%) | Python, Transformers, PyTorch |
-| 💳 [**LoanLens**](#) | End-to-end loan approval prediction on 500+ applications; compared LogReg, KNN, SVM, Decision Tree and ensembles (~77% accuracy) | Python, scikit-learn, Pandas, Seaborn |
-| 💼 [**JobPulse**](#) | Scraping pipeline that collected and structured 1,000+ job listings from Naukri.com for market-trend analysis | Python, Requests, BeautifulSoup, Pandas |
-| 🧩 [**MindScope**](#) | Interactive dashboard exploring 1,200+ workplace mental-health survey responses | Tableau |
-| 📈 [**NiftyPulse**](#) | 5-year Nifty 50 market analysis with Power Query preprocessing and DAX metrics | Power BI |
-| 🛒 [**SalesVision**](#) | KPI dashboard over 10,000+ sales records with pivots, slicers and trend views | Excel |
-| ✈️ [**TripVista**](#) | Relational model of a travel booking system, analysed with SQL for booking and review insights | MySQL |
-| ⚽ [**FIFA Player Performance Prediction**](#) | Regression model on SoFIFA player attributes, with a look at bias and fairness | R |
-| 🗄️ [**Multi-Level Cache Simulator**](#) | L1/L2/L3 cache system built from hash tables and linked lists with eviction policies | Python |
+| 🧠 [**Hate Speech Detection with Multi-Model Ensembles**](https://github.com/tisyavaidya/DS340W--Project) | Ensemble of fine-tuned BERT + RoBERTa; **93% accuracy** and macro F1 0.79, beating either model alone on an imbalanced dataset | Python, Transformers, PyTorch |
+| 📣 [**Marketing Campaign ROI Prediction**](https://github.com/tisyavaidya/digitalipsum-internship) | Digital Ipsum internship: predicts the ROI of 20,000 campaigns; tuned Gradient Boosting explains **75% of the variance** (R² 0.747) | Python, scikit-learn |
+| 💳 [**LoanLens**](https://github.com/tisyavaidya/Loan-Approval-Prediction-Model) | Loan approval prediction on ~600 applications; compared 5 model families, with ensembles best at **81% accuracy** | Python, scikit-learn, SMOTE, XGBoost |
+| 💼 [**JobPulse**](https://github.com/tisyavaidya/Web-Scrapping--Naukri.com) | Selenium + BeautifulSoup scraper for Naukri.com data analyst listings, measuring which skills employers ask for | Python, Selenium, Pandas |
+| 🧩 [**MindScope**](https://github.com/tisyavaidya/Mental-Health-Analysis-Dashboard-Tableau) | Tableau dashboard on workplace mental health: benefits rise from 12% at tiny companies to 65% at large ones | Tableau |
+| 📈 [**NiftyPulse**](https://github.com/tisyavaidya/NiftyPulse-Nifty-50-Market-Analysis) | Power BI dashboard of the Nifty 50 from 2020 to 2025, with Power Query cleaning and DAX measures | Power BI |
+| 🛒 [**SalesVision**](https://github.com/tisyavaidya/Sales-Dashboard-Excel) | Excel dashboard over 8,300+ orders; found that furniture brings 32% of sales but only 7% of profit | Excel |
+| ✈️ [**TripVista**](https://github.com/tisyavaidya/Trip-Summary-SQL) | A normalised 6-table travel booking database, analysed with joins, subqueries and views | MySQL |
+| 🗄️ [**Multi-Level Cache**](https://github.com/tisyavaidya/Cache) | L1/L2/L3 cache from hash routing and doubly linked lists, with LRU/MRU eviction and 53 passing doctests | Python |
+| 📅 [**Course Scheduler**](https://github.com/tisyavaidya/Course-Scheduler) | Java Swing + Derby app for course enrolment, with automatic waitlists | Java, JDBC |
+
+🌐 More on my website: **[tisyavaidya.com](https://tisyavaidya.com)**
 
 ---
 
