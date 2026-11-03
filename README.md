@@ -73,8 +73,6 @@ I'm a data scientist who likes turning messy data into models and insights peopl
 | 📈 [**NiftyPulse**](https://github.com/tisyavaidya/NiftyPulse-Nifty-50-Market-Analysis) | Power BI dashboard of the Nifty 50 from 2020 to 2025, with Power Query cleaning and DAX measures | Power BI |
 | 🛒 [**SalesVision**](https://github.com/tisyavaidya/Sales-Dashboard-Excel) | Excel dashboard over 8,300+ orders; found that furniture brings 32% of sales but only 7% of profit | Excel |
 | ✈️ [**TripVista**](https://github.com/tisyavaidya/Trip-Summary-SQL) | A normalised 6-table travel booking database, analysed with joins, subqueries and views | MySQL |
-| 🗄️ [**Multi-Level Cache**](https://github.com/tisyavaidya/Cache) | L1/L2/L3 cache from hash routing and doubly linked lists, with LRU/MRU eviction and 53 passing doctests | Python |
-| 📅 [**Course Scheduler**](https://github.com/tisyavaidya/Course-Scheduler) | Java Swing + Derby app for course enrolment, with automatic waitlists | Java, JDBC |
 
 🌐 More on my website: **[tisyavaidya.com](https://tisyavaidya.com)**
 
